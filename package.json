@@ -1,0 +1,8 @@
+{
+  "name": "Instagram-clone-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/WISUNGWON/Instagram-clone-backend.git",
+  "author": "Sungwon WI <52841715+WISUNGWON@users.noreply.github.com>",
+  "license": "MIT"
+}
