@@ -1,8 +1,15 @@
 {
-  "name": "Instagram-clone-backend",
+  "name": "instagram-clone-backend",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "dev": "node server.js"
+  },
   "repository": "https://github.com/WISUNGWON/Instagram-clone-backend.git",
   "author": "Sungwon WI <52841715+WISUNGWON@users.noreply.github.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.25.0",
+    "graphql": "^15.5.0"
+  }
 }
